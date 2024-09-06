@@ -1,0 +1,16 @@
+\PL_NAME = XO-3 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = Table 1
+\REFERENCE = Machalek et al. 2010
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        3.60000      null     0.10100         0.00400        -0.00400              0       null           null           null             0     null 
+        4.50000      null     0.14300         0.00600        -0.00600              0       null           null           null             0     null 
+        5.80000      null     0.13400         0.04900        -0.04900              0       null           null           null             0     null 
+        8.00000      null     0.15000         0.03600        -0.03600              0       null           null           null             0     null 

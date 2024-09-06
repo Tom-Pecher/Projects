@@ -1,0 +1,16 @@
+\PL_NAME = HAT-P-1 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = Table 1
+\REFERENCE = Todorov et al. 2010
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        3.60000      null     0.08000         0.00800        -0.00800              0       null           null           null             0     null 
+        4.50000      null     0.13500         0.02200        -0.02200              0       null           null           null             0     null 
+        5.80000      null     0.20300         0.03100        -0.03100              0       null           null           null             0     null 
+        8.00000      null     0.23800         0.04000        -0.04000              0       null           null           null             0     null 

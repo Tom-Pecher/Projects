@@ -1,0 +1,26 @@
+\PL_NAME = GJ 1214 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Mid-Infrared Instrument (MIRI) - LRS
+\FACILITY = NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission
+\NOTE = None
+\REFERENCE = Kempton et al. 2023
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        5.25000   0.50000     0.01340         0.00300        -0.00280              0       null           null           null             0     null 
+        5.75000   0.50000     0.01840         0.00300        -0.00310              0       null           null           null             0     null 
+        6.25000   0.50000     0.02280         0.00300        -0.00290              0       null           null           null             0     null 
+        6.75000   0.50000     0.02410         0.00330        -0.00330              0       null           null           null             0     null 
+        7.25000   0.50000     0.03240         0.00390        -0.00390              0       null           null           null             0     null 
+        7.75000   0.50000     0.04260         0.00460        -0.00410              0       null           null           null             0     null 
+        8.25000   0.50000     0.04740         0.00390        -0.00400              0       null           null           null             0     null 
+        8.75000   0.50000     0.06310         0.00450        -0.00470              0       null           null           null             0     null 
+        9.25000   0.50000     0.06040         0.00490        -0.00490              0       null           null           null             0     null 
+        9.75000   0.50000     0.07580         0.00570        -0.00570              0       null           null           null             0     null 
+       10.25000   0.50000     0.08810         0.00690        -0.00700              0       null           null           null             0     null 
+       10.75000   0.50000     0.09620         0.00830        -0.00830              0       null           null           null             0     null 
+       11.25000   0.50000     0.11740         0.01100        -0.01140              0       null           null           null             0     null 
+       11.75000   0.50000     0.11800         0.01480        -0.01500              0       null           null           null             0     null 

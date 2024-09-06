@@ -1,0 +1,13 @@
+\PL_NAME = WASP-18 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = IRIS2
+\FACILITY = Anglo Australian Telescope
+\NOTE = Table 1
+\REFERENCE = Sheppard et al. 2017
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.15000      null     0.13000         0.30000        -0.30000              0       null           null           null             0     null 

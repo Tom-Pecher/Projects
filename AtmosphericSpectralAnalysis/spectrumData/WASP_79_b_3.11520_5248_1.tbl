@@ -1,0 +1,15 @@
+\PL_NAME = WASP-79 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Three bins of width 0.20 um.
+\REFERENCE = Foote et al. 2022
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          char|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.18000   0.20000     0.01060         0.00870        -0.00680           null       null           null           null             0     null 
+        1.38000   0.20000     0.01840         0.00710        -0.00700           null       null           null           null             0     null 
+        1.58000   0.20000     0.01880         0.00960        -0.00910           null       null           null           null             0     null 

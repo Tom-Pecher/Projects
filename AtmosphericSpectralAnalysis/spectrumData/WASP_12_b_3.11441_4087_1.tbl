@@ -1,0 +1,13 @@
+\PL_NAME = WASP-12 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Seaver Prototype Imaging camera (SPICam)
+\FACILITY = Astrophysical Research Consortium (ARC) 3.5m Telescope At Apache Point Observatory (APO)
+\NOTE = text, Section 3, 2nd paragraph
+\REFERENCE = L&oacute;pez-Morales et al. 2010
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        0.90000      null     0.08200         0.01500        -0.01500              0       3028             99           -110             0     null 

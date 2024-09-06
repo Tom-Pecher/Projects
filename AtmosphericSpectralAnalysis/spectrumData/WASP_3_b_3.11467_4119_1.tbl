@@ -1,0 +1,13 @@
+\PL_NAME = WASP-3 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = WIRCam
+\FACILITY = 3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory
+\NOTE = Table 5, WASP-3 Ks band combined, Actual Eclipse D
+\REFERENCE = Croll et al. 2015
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.15000      null     0.19300         0.01400        -0.01400              0       null           null           null             0     null 

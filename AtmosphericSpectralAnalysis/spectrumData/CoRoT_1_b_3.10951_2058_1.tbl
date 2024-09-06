@@ -1,0 +1,13 @@
+\PL_NAME = CoRoT-1 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = High Acuity Wide-field K-band Imager (HAWK-I)
+\FACILITY = European Southern Observatory (ESO) 8.2m Very Large Telescope (VLT) Yepun at Paranal Observatory
+\NOTE = Table 1
+\REFERENCE = Gillon et al. 2009
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.09500   0.02000     0.27800         0.04300        -0.06600              0       null           null           null             0     null 

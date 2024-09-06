@@ -1,0 +1,26 @@
+\PL_NAME = WASP-121 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Supplementary Table 5
+\REFERENCE = Mansfield et al. 2021
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.13900   0.03900     0.09140         0.00320        -0.00320              0       null           null           null             0     null 
+        1.17800   0.03800     0.09560         0.00320        -0.00320              0       null           null           null             0     null 
+        1.21600   0.03900     0.10090         0.00330        -0.00330              0       null           null           null             0     null 
+        1.25500   0.03800     0.10010         0.00290        -0.00290              0       null           null           null             0     null 
+        1.29300   0.03900     0.09960         0.00300        -0.00300              0       null           null           null             0     null 
+        1.33200   0.03800     0.10790         0.00320        -0.00320              0       null           null           null             0     null 
+        1.37000   0.03900     0.12060         0.00300        -0.00300              0       null           null           null             0     null 
+        1.40900   0.03900     0.13090         0.00310        -0.00310              0       null           null           null             0     null 
+        1.44800   0.03800     0.12660         0.00310        -0.00310              0       null           null           null             0     null 
+        1.48600   0.03900     0.13620         0.00320        -0.00320              0       null           null           null             0     null 
+        1.52500   0.03800     0.13110         0.00360        -0.00360              0       null           null           null             0     null 
+        1.56300   0.03900     0.13700         0.00360        -0.00360              0       null           null           null             0     null 
+        1.60200   0.03800     0.13520         0.00390        -0.00390              0       null           null           null             0     null 
+        1.64000   0.03900     0.13220         0.00400        -0.00400              0       null           null           null             0     null 

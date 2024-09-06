@@ -1,0 +1,13 @@
+\PL_NAME = TrES-2 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide-field Infrared Camera (WIRCam)
+\FACILITY = 3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory
+\NOTE = eclipse depth taken from Abstract
+\REFERENCE = Croll et al. 2010
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.14600      null     0.06200         0.01300        -0.01100              0       1636             79            -88             0     null 

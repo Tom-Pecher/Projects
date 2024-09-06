@@ -1,0 +1,14 @@
+\PL_NAME = WASP-46 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = Table 1 & 6
+\REFERENCE = Garhart et al. 2020
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        3.60000      null     0.13600         0.07010        -0.07010              0       1435            740           -740             0     null 
+        4.50000      null     0.44460         0.05890        -0.05890              0       2014            267           -267             0     null 

@@ -1,0 +1,13 @@
+\PL_NAME = HD 189733 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = Table 1
+\REFERENCE = Knutson et al. 2009
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        8.00000      null     0.33800         0.00600        -0.00600              0       null           null           null             0     null 

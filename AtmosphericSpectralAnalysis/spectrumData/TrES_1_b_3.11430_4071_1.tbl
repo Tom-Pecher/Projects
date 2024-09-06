@@ -1,0 +1,14 @@
+\PL_NAME = TrES-1 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = Bright. temp from text, Section 4, 2nd para.
+\REFERENCE = Charbonneau et al. 2005
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        4.50000      null     0.06600         0.01300        -0.01300              0       1010             60            -60             0     null 
+        8.00000      null     0.22500         0.03600        -0.03600              0       1230            110           -110             0     null 

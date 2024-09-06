@@ -1,0 +1,13 @@
+\PL_NAME = CoRoT-1 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide-field InfraRed Camera (WIRC)
+\FACILITY = Palomar Observatory 200-inch Hale Telescope
+\NOTE = None
+\REFERENCE = Zhao et al. 2012
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.63500      null     0.14500         0.04900        -0.04900              0       null           null           null             0     null 

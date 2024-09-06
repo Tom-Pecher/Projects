@@ -1,0 +1,13 @@
+\PL_NAME = HAT-P-4 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = High Resolution Imager (HRI)
+\FACILITY = Deep Impact spacecraft
+\NOTE = Table 6
+\REFERENCE = Christiansen et al. 2011
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        0.65000      null    -0.00690         0.03970        -0.03970              0       null           null           null             0     null 

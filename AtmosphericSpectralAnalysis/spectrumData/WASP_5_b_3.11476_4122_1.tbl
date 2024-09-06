@@ -1,0 +1,13 @@
+\PL_NAME = WASP-5 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = IRIS2
+\FACILITY = Anglo Australian Telescope
+\NOTE = Table 2
+\REFERENCE = Zhou et al. 2015
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.15900   0.26200     0.20000         0.02000        -0.02000              0       null           null           null             0     null 

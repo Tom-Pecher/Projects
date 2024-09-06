@@ -1,0 +1,15 @@
+\PL_NAME = WASP-12 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide-field Infrared Camera (WIRCam)
+\FACILITY = 3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory
+\NOTE = eclipse depth taken from Abstract
+\REFERENCE = Croll et al. 2011
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.25300      null     0.13100         0.02700        -0.02900              0       null           null           null             0     null 
+        1.63100      null     0.17600         0.01600        -0.02100              0       null           null           null             0     null 
+        2.14600      null     0.30900         0.01300        -0.01200              0       null           null           null             0     null 

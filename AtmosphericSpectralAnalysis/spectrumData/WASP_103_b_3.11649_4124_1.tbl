@@ -1,0 +1,34 @@
+\PL_NAME = WASP-103 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Table 6
+\REFERENCE = Cartier et al. 2017
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.08060      null     0.13034         0.02310        -0.02360              0       null           null           null             0     null 
+        1.11310      null     0.13225         0.01760        -0.01730              0       null           null           null             0     null 
+        1.14100      null     0.12618         0.01630        -0.01620              0       null           null           null             0     null 
+        1.16890      null     0.12623         0.01580        -0.01590              0       null           null           null             0     null 
+        1.19680      null     0.12022         0.01530        -0.01570              0       null           null           null             0     null 
+        1.22470      null     0.12385         0.01550        -0.01540              0       null           null           null             0     null 
+        1.25260      null     0.12565         0.01540        -0.01550              0       null           null           null             0     null 
+        1.28040      null     0.12726         0.01540        -0.01540              0       null           null           null             0     null 
+        1.30830      null     0.13136         0.01530        -0.01550              0       null           null           null             0     null 
+        1.33620      null     0.14334         0.01560        -0.01510              0       null           null           null             0     null 
+        1.36410      null     0.13891         0.01580        -0.01620              0       null           null           null             0     null 
+        1.39200      null     0.14908         0.01610        -0.01600              0       null           null           null             0     null 
+        1.41990      null     0.14726         0.01610        -0.01660              0       null           null           null             0     null 
+        1.44770      null     0.15311         0.01690        -0.01720              0       null           null           null             0     null 
+        1.47560      null     0.14266         0.01680        -0.01730              0       null           null           null             0     null 
+        1.50350      null     0.14986         0.01730        -0.01750              0       null           null           null             0     null 
+        1.53140      null     0.14613         0.01710        -0.01730              0       null           null           null             0     null 
+        1.55930      null     0.16567         0.01790        -0.01800              0       null           null           null             0     null 
+        1.58720      null     0.16841         0.01910        -0.01860              0       null           null           null             0     null 
+        1.61510      null     0.16568         0.01900        -0.01890              0       null           null           null             0     null 
+        1.64290      null     0.14970         0.02000        -0.02030              0       null           null           null             0     null 
+        1.68480      null     0.07526         0.02680        -0.02490              0       null           null           null             0     null 

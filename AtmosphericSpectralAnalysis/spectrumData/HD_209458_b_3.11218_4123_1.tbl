@@ -1,0 +1,22 @@
+\PL_NAME = HD 209458 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Table 2
+\REFERENCE = Line et al. 2016
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.15100   0.05300     0.00430         0.00160        -0.00160              0       null           null           null             0     null 
+        1.20400   0.05200     0.00970         0.00150        -0.00150              0       null           null           null             0     null 
+        1.25600   0.05200     0.01150         0.00150        -0.00150              0       null           null           null             0     null 
+        1.30800   0.05300     0.01090         0.00150        -0.00150              0       null           null           null             0     null 
+        1.36100   0.05300     0.00800         0.00150        -0.00150              0       null           null           null             0     null 
+        1.41400   0.05200     0.00430         0.00150        -0.00150              0       null           null           null             0     null 
+        1.46600   0.05200     0.00860         0.00150        -0.00150              0       null           null           null             0     null 
+        1.51800   0.05300     0.01070         0.00170        -0.00170              0       null           null           null             0     null 
+        1.57100   0.05300     0.01670         0.00170        -0.00170              0       null           null           null             0     null 
+        1.62400   0.05200     0.01700         0.00180        -0.00180              0       null           null           null             0     null 

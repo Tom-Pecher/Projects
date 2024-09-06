@@ -1,0 +1,37 @@
+\PL_NAME = KELT-7 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Table 4
+\REFERENCE = Pluriel et al. 2020
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.12625   0.02190     0.03759         0.00421        -0.00421              0       null           null           null             0     null 
+        1.14775   0.02110     0.03947         0.00456        -0.00456              0       null           null           null             0     null 
+        1.16860   0.02060     0.03496         0.00447        -0.00447              0       null           null           null             0     null 
+        1.18880   0.01980     0.03404         0.00463        -0.00463              0       null           null           null             0     null 
+        1.20835   0.01930     0.03644         0.00412        -0.00412              0       null           null           null             0     null 
+        1.22750   0.01900     0.03715         0.00484        -0.00484              0       null           null           null             0     null 
+        1.24645   0.01890     0.03706         0.00399        -0.00399              0       null           null           null             0     null 
+        1.26550   0.01920     0.03185         0.00454        -0.00454              0       null           null           null             0     null 
+        1.28475   0.01930     0.04321         0.00435        -0.00435              0       null           null           null             0     null 
+        1.30380   0.01880     0.04409         0.00402        -0.00402              0       null           null           null             0     null 
+        1.32260   0.01880     0.03353         0.00432        -0.00432              0       null           null           null             0     null 
+        1.34145   0.01890     0.03524         0.00424        -0.00424              0       null           null           null             0     null 
+        1.36050   0.01920     0.04753         0.00422        -0.00422              0       null           null           null             0     null 
+        1.38005   0.01990     0.04616         0.00482        -0.00482              0       null           null           null             0     null 
+        1.40000   0.02000     0.04608         0.00390        -0.00390              0       null           null           null             0     null 
+        1.42015   0.02030     0.04440         0.00493        -0.00493              0       null           null           null             0     null 
+        1.44060   0.02060     0.04524         0.00459        -0.00459              0       null           null           null             0     null 
+        1.46150   0.02120     0.04683         0.00433        -0.00433              0       null           null           null             0     null 
+        1.48310   0.02200     0.04345         0.00452        -0.00452              0       null           null           null             0     null 
+        1.50530   0.02240     0.05089         0.00492        -0.00492              0       null           null           null             0     null 
+        1.52800   0.02300     0.04760         0.00450        -0.00450              0       null           null           null             0     null 
+        1.55155   0.02410     0.04660         0.00491        -0.00491              0       null           null           null             0     null 
+        1.57625   0.02530     0.05224         0.00522        -0.00522              0       null           null           null             0     null 
+        1.60210   0.02640     0.04442         0.00461        -0.00461              0       null           null           null             0     null 
+        1.62945   0.02830     0.04354         0.00556        -0.00556              0       null           null           null             0     null 

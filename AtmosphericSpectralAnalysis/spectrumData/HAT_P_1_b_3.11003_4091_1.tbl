@@ -1,0 +1,13 @@
+\PL_NAME = HAT-P-1 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = LIRIS
+\FACILITY = Isaac Newton Group (ING) 4.2m William Herschel Telescope (WHT) at Observatorio del Roque de los Muchachos
+\NOTE = Table 1
+\REFERENCE = de Mooij et al. 2011
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.20000      null     0.10900         0.02500        -0.02500              0       null           null           null             0     null 

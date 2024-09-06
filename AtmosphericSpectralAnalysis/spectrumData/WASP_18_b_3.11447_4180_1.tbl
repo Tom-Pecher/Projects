@@ -1,0 +1,26 @@
+\PL_NAME = WASP-18 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Table 1
+\REFERENCE = Arcangeli et al. 2018
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.15600   0.03300     0.07750         0.00200        -0.00200              0       null           null           null             0     null 
+        1.19000   0.03300     0.08740         0.00200        -0.00200              0       null           null           null             0     null 
+        1.22300   0.03300     0.09080         0.00200        -0.00200              0       null           null           null             0     null 
+        1.25500   0.03200     0.09080         0.00190        -0.00190              0       null           null           null             0     null 
+        1.28800   0.03300     0.09400         0.00190        -0.00190              0       null           null           null             0     null 
+        1.32100   0.03300     0.09890         0.00200        -0.00200              0       null           null           null             0     null 
+        1.35300   0.03300     0.10500         0.00200        -0.00200              0       null           null           null             0     null 
+        1.38700   0.03300     0.11050         0.00200        -0.00200              0       null           null           null             0     null 
+        1.41900   0.03300     0.11410         0.00210        -0.00210              0       null           null           null             0     null 
+        1.45300   0.03300     0.11310         0.00210        -0.00210              0       null           null           null             0     null 
+        1.48500   0.03200     0.11900         0.00210        -0.00210              0       null           null           null             0     null 
+        1.51800   0.03300     0.12370         0.00210        -0.00210              0       null           null           null             0     null 
+        1.55000   0.03300     0.11710         0.00230        -0.00230              0       null           null           null             0     null 
+        1.58300   0.03300     0.12050         0.00240        -0.00240              0       null           null           null             0     null 

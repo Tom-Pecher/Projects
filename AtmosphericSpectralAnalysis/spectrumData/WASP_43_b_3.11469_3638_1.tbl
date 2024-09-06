@@ -1,0 +1,27 @@
+\PL_NAME = WASP-43 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope
+\NOTE = Table 1
+\REFERENCE = Kreidberg et al. 2014
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.14250   0.03500     0.03670         0.00450        -0.00450              0       null           null           null             0     null 
+        1.17750   0.03500     0.04310         0.00360        -0.00360              0       null           null           null             0     null 
+        1.21250   0.03500     0.04140         0.00380        -0.00380              0       null           null           null             0     null 
+        1.24750   0.03500     0.04820         0.00360        -0.00360              0       null           null           null             0     null 
+        1.28250   0.03500     0.04600         0.00370        -0.00370              0       null           null           null             0     null 
+        1.31750   0.03500     0.04730         0.00330        -0.00330              0       null           null           null             0     null 
+        1.35250   0.03500     0.03530         0.00340        -0.00340              0       null           null           null             0     null 
+        1.38750   0.03500     0.03130         0.00300        -0.00300              0       null           null           null             0     null 
+        1.42250   0.03500     0.03200         0.00360        -0.00360              0       null           null           null             0     null 
+        1.45750   0.03500     0.03940         0.00360        -0.00360              0       null           null           null             0     null 
+        1.49250   0.03500     0.04390         0.00330        -0.00330              0       null           null           null             0     null 
+        1.52750   0.03500     0.04580         0.00350        -0.00350              0       null           null           null             0     null 
+        1.56250   0.03500     0.05950         0.00360        -0.00360              0       null           null           null             0     null 
+        1.59750   0.03500     0.06140         0.00370        -0.00370              0       null           null           null             0     null 
+        1.63250   0.03500     0.07320         0.00420        -0.00420              0       null           null           null             0     null 

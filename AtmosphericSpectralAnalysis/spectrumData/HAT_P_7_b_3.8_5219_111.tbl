@@ -1,0 +1,16 @@
+\PL_NAME = HAT-P-7 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = Figure 2
+\REFERENCE = Changeat et al. 2022
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        3.60000      null     0.09800         0.01700        -0.01700              0       null           null           null             0     null 
+        4.50000      null     0.15900         0.02200        -0.02200              0       null           null           null             0     null 
+        5.80000      null     0.24500         0.03100        -0.03100              0       null           null           null             0     null 
+        8.00000      null     0.26200         0.02700        -0.02700              0       null           null           null             0     null 

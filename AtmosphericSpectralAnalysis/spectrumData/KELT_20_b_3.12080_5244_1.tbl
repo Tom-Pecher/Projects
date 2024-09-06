@@ -1,0 +1,13 @@
+\PL_NAME = KELT-20 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = TESS CCD Array
+\FACILITY = Transiting Exoplanet Survey Satellite
+\NOTE = Table 1
+\REFERENCE = Fu et al. 2022
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        0.80000   0.20000     0.01390         0.00080        -0.00080              0       null           null           null             0     null 

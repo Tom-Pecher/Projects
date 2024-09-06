@@ -1,0 +1,13 @@
+\PL_NAME = WASP-33 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = LIRIS
+\FACILITY = Isaac Newton Group (ING) 4.2m William Herschel Telescope (WHT) at Observatorio del Roque de los Muchachos
+\NOTE = eclipse depth taken from Abstract
+\REFERENCE = de Mooij et al. 2013
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.15000      null     0.24400         0.02700        -0.02000              0       null           null           null             0     null 

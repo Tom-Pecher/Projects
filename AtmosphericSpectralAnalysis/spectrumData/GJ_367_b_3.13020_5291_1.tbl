@@ -1,0 +1,23 @@
+\PL_NAME = GJ 367 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Mid-Infrared Instrument (MIRI)
+\FACILITY = NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission
+\NOTE = The fiducial emission spectrum (Table 4)
+\REFERENCE = Zhang et al. 2024
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          char|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        5.36400   0.60900     0.00510         0.00100        -0.00100           null       null           null           null             0     null 
+        5.97300   0.60900     0.00840         0.00100        -0.00100           null       null           null           null             0     null 
+        6.58200   0.60900     0.00620         0.00110        -0.00110           null       null           null           null             0     null 
+        7.19100   0.60900     0.00690         0.00120        -0.00120           null       null           null           null             0     null 
+        7.80100   0.60900     0.00900         0.00120        -0.00120           null       null           null           null             0     null 
+        8.41000   0.60900     0.00710         0.00130        -0.00130           null       null           null           null             0     null 
+        9.01800   0.60900     0.01390         0.00150        -0.00150           null       null           null           null             0     null 
+        9.62800   0.60900     0.00760         0.00170        -0.00170           null       null           null           null             0     null 
+       10.23600   0.60900     0.00890         0.00200        -0.00200           null       null           null           null             0     null 
+       10.84600   0.60900     0.00790         0.00280        -0.00280           null       null           null           null             0     null 
+       11.45400   0.60900     0.00920         0.00380        -0.00380           null       null           null           null             0     null 

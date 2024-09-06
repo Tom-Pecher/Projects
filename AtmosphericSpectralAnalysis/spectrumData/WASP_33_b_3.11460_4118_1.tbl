@@ -1,0 +1,13 @@
+\PL_NAME = WASP-33 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Large Binocular Camera
+\FACILITY = LBT Consortium Large Binocular Telescope (LBT) at Mount Graham International Observatory
+\NOTE = eclipse depth taken from Abstract
+\REFERENCE = von Essen et al. 2015
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.05000      null     0.10300         0.03400        -0.03400              0       3398            302           -302             0     null 

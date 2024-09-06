@@ -1,0 +1,32 @@
+\PL_NAME = WASP-12 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = SpeX
+\FACILITY = Infrared Telescope Facility
+\NOTE = Table 2
+\REFERENCE = Crossfield et al. 2012
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.53750   0.02500     0.03400         0.15500        -0.15500              0       null           null           null             0     null 
+        1.56250   0.02500     0.20600         0.11000        -0.11000              0       null           null           null             0     null 
+        1.58750   0.02500     0.20400         0.08600        -0.08600              0       null           null           null             0     null 
+        1.61250   0.02500     0.13300         0.13500        -0.13500              0       null           null           null             0     null 
+        1.63750   0.02500     0.21300         0.11000        -0.11000              0       null           null           null             0     null 
+        1.66250   0.02500     0.15300         0.11300        -0.11300              0       null           null           null             0     null 
+        1.68750   0.02500     0.19500         0.11700        -0.11700              0       null           null           null             0     null 
+        1.71250   0.02500     0.14300         0.11600        -0.11600              0       null           null           null             0     null 
+        1.73750   0.02500     0.16500         0.10700        -0.10700              0       null           null           null             0     null 
+        2.08750   0.02500     0.13500         0.09000        -0.09000              0       null           null           null             0     null 
+        2.11250   0.02500     0.30800         0.04600        -0.04600              0       null           null           null             0     null 
+        2.13750   0.02500     0.20200         0.12100        -0.12100              0       null           null           null             0     null 
+        2.16250   0.02500     0.39900         0.10300        -0.10300              0       null           null           null             0     null 
+        2.18750   0.02500     0.27100         0.06200        -0.06200              0       null           null           null             0     null 
+        2.21250   0.02500     0.28600         0.07300        -0.07300              0       null           null           null             0     null 
+        2.23750   0.02500     0.31400         0.06500        -0.06500              0       null           null           null             0     null 
+        2.26250   0.02500     0.37900         0.05600        -0.05600              0       null           null           null             0     null 
+        2.28750   0.02500     0.36800         0.06700        -0.06700              0       null           null           null             0     null 
+        2.31250   0.02500     0.34800         0.07700        -0.07700              0       null           null           null             0     null 
+        2.33750   0.02500     0.24800         0.08700        -0.08700              0       null           null           null             0     null 

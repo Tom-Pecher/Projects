@@ -1,0 +1,15 @@
+\PL_NAME = WASP-80 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Figure 1
+\REFERENCE = Jacobs et al. 2023
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.20900   0.18000     0.00324         0.00197        -0.00192              0       null           null           null             0     null 
+        1.39100   0.18200     0.00136         0.00155        -0.00155              0       null           null           null             0     null 
+        1.56800   0.17300     0.00419         0.00149        -0.00147              0       null           null           null             0     null 

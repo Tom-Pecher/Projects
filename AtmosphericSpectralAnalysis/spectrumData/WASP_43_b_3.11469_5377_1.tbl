@@ -1,0 +1,26 @@
+\PL_NAME = WASP-43 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Mid-Infrared Instrument (MIRI)
+\FACILITY = NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission
+\NOTE = Eureka Pipeline v1
+\REFERENCE = Bell et al. 2024
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          char|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        5.25000   0.50000     0.48622         0.00429        -0.00430           null       null           null           null             0     null 
+        5.75000   0.50000     0.52092         0.00458        -0.00461           null       null           null           null             0     null 
+        6.25000   0.50000     0.54833         0.00468        -0.00470           null       null           null           null             0     null 
+        6.75000   0.50000     0.51433         0.00513        -0.00518           null       null           null           null             0     null 
+        7.25000   0.50000     0.55338         0.00542        -0.00517           null       null           null           null             0     null 
+        7.75000   0.50000     0.60393         0.00582        -0.00596           null       null           null           null             0     null 
+        8.25000   0.50000     0.62762         0.00628        -0.00641           null       null           null           null             0     null 
+        8.75000   0.50000     0.63943         0.00751        -0.00757           null       null           null           null             0     null 
+        9.25000   0.50000     0.72566         0.00818        -0.00807           null       null           null           null             0     null 
+        9.75000   0.50000     0.75608         0.00898        -0.00894           null       null           null           null             0     null 
+       10.25000   0.50000     0.73252         0.01125        -0.01115           null       null           null           null             0     null 
+       10.75000   0.50000     0.76583         0.01544        -0.01559           null       null           null           null             0     null 
+       11.25000   0.50000     0.77972         0.02153        -0.02165           null       null           null           null             0     null 
+       11.75000   0.50000     0.73804         0.02983        -0.02978           null       null           null           null             0     null 

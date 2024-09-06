@@ -1,0 +1,13 @@
+\PL_NAME = WASP-19 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = High Acuity Wide-field K-band Imager (HAWK-I)
+\FACILITY = European Southern Observatory (ESO) 8.2m Very Large Telescope (VLT) Yepun at Paranal Observatory
+\NOTE = eclipse depth taken from Abstract
+\REFERENCE = Gibson et al. 2010
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.09500      null     0.36600         0.07200        -0.07200              0       2540            180           -180             0     null 

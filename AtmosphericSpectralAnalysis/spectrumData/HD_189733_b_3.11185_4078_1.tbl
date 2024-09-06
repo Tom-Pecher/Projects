@@ -1,0 +1,30 @@
+\PL_NAME = HD 189733 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Near Infrared Camera and Multi-Object Spectrometer (NICMOS)
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Table 1
+\REFERENCE = Swain et al. 2009
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.47600      null    -0.00890         0.00800        -0.00800              0       null           null           null             0     null 
+        1.52500      null    -0.01900         0.00700        -0.00700              0       null           null           null             0     null 
+        1.58400      null     0.00210         0.00600        -0.00600              0       null           null           null             0     null 
+        1.64000      null     0.01770         0.00700        -0.00700              0       null           null           null             0     null 
+        1.69800      null     0.04520         0.00700        -0.00700              0       null           null           null             0     null 
+        1.75500      null     0.05320         0.00600        -0.00600              0       null           null           null             0     null 
+        1.81400      null     0.03310         0.00600        -0.00600              0       null           null           null             0     null 
+        1.86900      null     0.03890         0.00600        -0.00600              0       null           null           null             0     null 
+        1.92900      null     0.01280         0.00700        -0.00700              0       null           null           null             0     null 
+        1.98600      null     0.00300         0.00700        -0.00700              0       null           null           null             0     null 
+        2.04400      null     0.01220         0.00600        -0.00600              0       null           null           null             0     null 
+        2.10100      null     0.02500         0.00700        -0.00700              0       null           null           null             0     null 
+        2.15900      null     0.04520         0.00700        -0.00700              0       null           null           null             0     null 
+        2.21600      null     0.07140         0.00800        -0.00800              0       null           null           null             0     null 
+        2.27400      null     0.08600         0.00800        -0.00800              0       null           null           null             0     null 
+        2.33200      null     0.05920         0.00800        -0.00800              0       null           null           null             0     null 
+        2.38900      null     0.06330         0.00900        -0.00900              0       null           null           null             0     null 
+        2.44600      null     0.04910         0.00900        -0.00900              0       null           null           null             0     null 

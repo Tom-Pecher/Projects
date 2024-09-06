@@ -1,0 +1,13 @@
+\PL_NAME = WASP-43 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = TRAPPISTCam
+\FACILITY = European Southern Observatory (ESO) 0.6m TRAnsiting Planets and PlanetesImals Small Telescope (TRAPPIST) at La Silla Observatory
+\NOTE = Table 5
+\REFERENCE = Gillon et al. 2012
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        0.91590   0.00050     0.02100         0.01900        -0.01300              0       null           null           null             0     null 

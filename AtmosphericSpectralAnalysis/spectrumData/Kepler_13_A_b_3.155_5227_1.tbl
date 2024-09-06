@@ -1,0 +1,26 @@
+\PL_NAME = Kepler-13 A b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Supplementary Table 5
+\REFERENCE = Mansfield et al. 2021
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.13900   0.03900     0.05800         0.01060        -0.01060              0       null           null           null             0     null 
+        1.17800   0.03800     0.06980         0.01030        -0.01030              0       null           null           null             0     null 
+        1.21600   0.03900     0.06660         0.01020        -0.01020              0       null           null           null             0     null 
+        1.25500   0.03800     0.08660         0.01030        -0.01030              0       null           null           null             0     null 
+        1.29300   0.03900     0.09920         0.01060        -0.01060              0       null           null           null             0     null 
+        1.33200   0.03800     0.09320         0.01060        -0.01060              0       null           null           null             0     null 
+        1.37000   0.03900     0.08210         0.01070        -0.01070              0       null           null           null             0     null 
+        1.40900   0.03900     0.08790         0.01120        -0.01120              0       null           null           null             0     null 
+        1.44800   0.03800     0.08570         0.01140        -0.01140              0       null           null           null             0     null 
+        1.48600   0.03900     0.08950         0.01180        -0.01180              0       null           null           null             0     null 
+        1.52500   0.03800     0.11330         0.01240        -0.01240              0       null           null           null             0     null 
+        1.56300   0.03900     0.09770         0.01280        -0.01280              0       null           null           null             0     null 
+        1.60200   0.03800     0.13630         0.01310        -0.01310              0       null           null           null             0     null 
+        1.64000   0.03900     0.09670         0.01400        -0.01400              0       null           null           null             0     null 

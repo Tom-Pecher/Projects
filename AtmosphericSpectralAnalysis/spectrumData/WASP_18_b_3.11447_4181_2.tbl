@@ -1,0 +1,16 @@
+\PL_NAME = WASP-18 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = Table 1
+\REFERENCE = Sheppard et al. 2017
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        3.60000      null     0.29730         0.00700        -0.00700              0       null           null           null             0     null 
+        4.50000      null     0.38580         0.01130        -0.01130              0       null           null           null             0     null 
+        5.80000      null     0.37000         0.03000        -0.03000              0       null           null           null             0     null 
+        8.00000      null     0.41000         0.02000        -0.02000              0       null           null           null             0     null 

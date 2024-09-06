@@ -1,0 +1,30 @@
+\PL_NAME = WASP-12 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Figure 2
+\REFERENCE = Changeat et al. 2022
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|    char|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.12620   0.03080     0.15470         0.02550        -0.02550              0       null           null           null             0     null 
+        1.15630   0.02930     0.14920         0.02390        -0.02390              0       null           null           null             0     null 
+        1.18490   0.02790     0.16120         0.02280        -0.02280              0       null           null           null             0     null 
+        1.21230   0.02690     0.12530         0.02260        -0.02260              0       null           null           null             0     null 
+        1.23900   0.02650     0.17810         0.02240        -0.02240              0       null           null           null             0     null 
+        1.26570   0.02690     0.16320         0.02320        -0.02320              0       null           null           null             0     null 
+        1.29250   0.02670     0.17620         0.02740        -0.02740              0       null           null           null             0     null 
+        1.31900   0.02630     0.17390         0.02160        -0.02160              0       null           null           null             0     null 
+        1.34540   0.02650     0.17690         0.02260        -0.02260              0       null           null           null             0     null 
+        1.37230   0.02740     0.14470         0.02560        -0.02560              0       null           null           null             0     null 
+        1.40000   0.02800     0.19370         0.02340        -0.02340              0       null           null           null             0     null 
+        1.42830   0.02850     0.19580         0.02320        -0.02320              0       null           null           null             0     null 
+        1.45720   0.02940     0.23750         0.02540        -0.02540              0       null           null           null             0     null 
+        1.48730   0.03080     0.26610         0.02370        -0.02370              0       null           null           null             0     null 
+        1.51860   0.03180     0.21970         0.02430        -0.02430              0       null           null           null             0     null 
+        1.55140   0.03370     0.20190         0.02640        -0.02640              0       null           null           null             0     null 
+        1.58620   0.03600     0.16870         0.02470        -0.02470              0       null           null           null             0     null 
+        1.62370   0.03900     0.20990         0.02600        -0.02600              0       null           null           null             0     null 

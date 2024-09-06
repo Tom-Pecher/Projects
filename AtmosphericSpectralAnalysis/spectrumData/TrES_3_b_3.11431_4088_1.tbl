@@ -1,0 +1,13 @@
+\PL_NAME = TrES-3 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide-field Infrared Camera (WIRCam)
+\FACILITY = 3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory
+\NOTE = Table 1, MCMC Ks-band Solution
+\REFERENCE = Croll et al. 2010
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.14600      null     0.13300         0.01800        -0.01600              0       1731             56            -60             0     null 

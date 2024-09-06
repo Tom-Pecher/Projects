@@ -1,0 +1,14 @@
+\PL_NAME = WASP-26 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = eclipse depth taken from Abstract
+\REFERENCE = Mahtani et al. 2013
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        3.60000   0.75000     0.12600         0.01300        -0.01300              0       1825             80            -80             0     null 
+        4.50000   1.01500     0.14900         0.01600        -0.01600              0       1725             89            -89             0     null 

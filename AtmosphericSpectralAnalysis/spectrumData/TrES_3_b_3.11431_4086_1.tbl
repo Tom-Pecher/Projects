@@ -1,0 +1,16 @@
+\PL_NAME = TrES-3 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Infrared Array Camera (IRAC)
+\FACILITY = Spitzer Space Telescope satellite
+\NOTE = Table 1
+\REFERENCE = Fressin et al. 2010
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        3.60000      null     0.35600         0.03500        -0.03500              0       null           null           null             0     null 
+        4.50000      null     0.37200         0.05400        -0.05400              0       null           null           null             0     null 
+        5.80000      null     0.44900         0.09700        -0.09700              0       null           null           null             0     null 
+        8.00000      null     0.47500         0.04600        -0.04600              0       null           null           null             0     null 

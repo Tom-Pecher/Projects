@@ -1,0 +1,13 @@
+\PL_NAME = WASP-4 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = ISAAC
+\FACILITY = European Southern Observatory (ESO) 8.2m Very Large Telescope (VLT) Melipal (UT3) at Paranal Observatory
+\NOTE = None
+\REFERENCE = C&aacute;ceres et al. 2011
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.20000      null     0.18500         0.01400        -0.01300              0       1995             40            -40             0     null 

@@ -1,0 +1,13 @@
+\PL_NAME = WASP-19 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Merope 2Kx2K
+\FACILITY = Las Cumbres Observatory Global Telescope Network (LCOGTN) 2m Faulkes Telescope South at Siding Spring Observatory (SSO)
+\NOTE = eclipse depth taken from Abstract
+\REFERENCE = Zhou et al. 2013
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        0.86600   0.13000     0.08000         0.02900        -0.02900              0       null           null           null             0     null 

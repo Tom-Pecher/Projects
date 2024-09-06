@@ -1,0 +1,13 @@
+\PL_NAME = CoRoT-2 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = LIRIS
+\FACILITY = Isaac Newton Group (ING) 4.2m William Herschel Telescope (WHT) at Observatorio del Roque de los Muchachos
+\NOTE = eclipse depth taken from Abstract
+\REFERENCE = Alonso et al. 2010
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.15000      null     0.16000         0.09000        -0.09000              0       1890            260           -350             0     null 

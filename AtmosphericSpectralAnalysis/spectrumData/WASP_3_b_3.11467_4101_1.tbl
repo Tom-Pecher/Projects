@@ -1,0 +1,13 @@
+\PL_NAME = WASP-3 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide-field InfraRed Camera (WIRC)
+\FACILITY = Palomar Observatory 200-inch Hale Telescope
+\NOTE = None
+\REFERENCE = Zhao et al. 2012
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        2.15000      null     0.18100         0.02000        -0.02000              0       null           null           null             0     null 

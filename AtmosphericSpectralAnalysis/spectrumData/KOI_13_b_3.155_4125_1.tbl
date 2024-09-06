@@ -1,0 +1,27 @@
+\PL_NAME = KOI-13 b
+\SPEC_TYPE = Emission
+\INSTRUMENT = Wide Field Camera 3
+\FACILITY = Hubble Space Telescope satellite
+\NOTE = Table 4
+\REFERENCE = Beatty et al. 2017
+\
+\
+|CENTRALWAVELNG|BANDWIDTH|ESPECLIPDEP|ESPECLIPDEPERR1|ESPECLIPDEPERR2|ESPECLIPDEPLIM|ESPBRITEMP|ESPBRITEMPERR1|ESPBRITEMPERR2|ESPBRITEMPLIM|OBS_DATE|
+|        double|   double|     double|         double|         double|          long|    double|        double|        double|         long|  double|
+|       microns|  microns|          %|               |               |              |         K|              |              |             |    days|
+|          null|     null|       null|           null|           null|          null|      null|          null|          null|         null|    null|
+        1.14200      null     0.06620         0.00710        -0.00710              0       null           null           null             0     null 
+        1.17800      null     0.05070         0.00650        -0.00650              0       null           null           null             0     null 
+        1.21300      null     0.08140         0.00650        -0.00650              0       null           null           null             0     null 
+        1.24800      null     0.07280         0.00660        -0.00660              0       null           null           null             0     null 
+        1.28300      null     0.07980         0.00660        -0.00660              0       null           null           null             0     null 
+        1.31800      null     0.08380         0.00700        -0.00700              0       null           null           null             0     null 
+        1.35200      null     0.06840         0.00670        -0.00670              0       null           null           null             0     null 
+        1.38800      null     0.06400         0.00660        -0.00660              0       null           null           null             0     null 
+        1.42200      null     0.07670         0.00710        -0.00710              0       null           null           null             0     null 
+        1.45800      null     0.06840         0.00780        -0.00780              0       null           null           null             0     null 
+        1.49300      null     0.07550         0.00720        -0.00720              0       null           null           null             0     null 
+        1.52800      null     0.06880         0.00750        -0.00750              0       null           null           null             0     null 
+        1.56200      null     0.08500         0.00710        -0.00710              0       null           null           null             0     null 
+        1.59800      null     0.09940         0.00780        -0.00780              0       null           null           null             0     null 
+        1.63200      null     0.10940         0.00780        -0.00780              0       null           null           null             0     null 
