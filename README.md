@@ -9,3 +9,5 @@ ATMOSPHERIC SPECTRAL ANALYSIS:
         - Examining what compounds are responsible for the fluctuations in the spectra.
         - Using ML to identify exoplanets based on their atmospheric fingerprint.
         - Extracting tangible quantitative data from atmospheric spectra to predict the habitability of certain exoplanets.
+
+NATURAL LANGUAGE GENERATION:
